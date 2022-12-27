@@ -12,7 +12,7 @@ You can read more into the project here in the following link:-<br>
 1x	1.8V SOT-23-5 LDO Voltage Regulator - TPS78218<br>
 1x	27MHz 5032 SMD crystal	(2-pin)<br>
 3x	1uF 0603 SMD capacitor<br>
-1x	18Ω 0603 SMD resistor<br>
+1x	18Ω 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
 2x	10kΩ 0603 SMD resistor<br>
 
 ## MFO SMD 5V Component List<br>
@@ -22,7 +22,7 @@ You can read more into the project here in the following link:-<br>
 1x	1.8V SOT-23-5 LDO Voltage Regulator - TPS78218<br>
 1x	27MHz 5032 SMD crystal	(2-pin)<br>
 5x	1uF 0603 SMD capacitor<br>
-1x	18Ω 0603 SMD resistor<br>
+1x	18Ω 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
 1x	10kΩ 0603 SMD resistor<br>
 1x	22kΩ 0603 SMD resistor<br>
 
