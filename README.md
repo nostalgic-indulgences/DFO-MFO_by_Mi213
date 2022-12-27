@@ -7,15 +7,15 @@ I have included the pre-made TI Hex files that are posted on the circuitboard fo
 You can read more into the project here in the following link:-<br>
 `https://circuit-board.de/forum/index.php/Thread/18016-DFO-Dual-Frequency-Oscillator/`
 
-MFO Component List
-U1 1.8V LDO Regulator - TPS78218
-U2 Texas Instruments - CDCE925
-C1 1uF 0603 SMD capacitor
-C2 1uF 0603 SMD capacitor
-C3 1uF 0603 SMD capacitor
-C4 1uF 0603 SMD capacitor
-R1 10K 0603 SMD resistor
-R2 10K 0603 SMD resistor
-R3 18R 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)
-R4 18R 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)
-Y1 27MHz 5032 SMD crystal
+## MFO Component List<br>
+U1 1.8V LDO Regulator - TPS78218<br>
+U2 Texas Instruments - CDCE925<br>
+C1 1uF 0603 SMD capacitor<br>
+C2 1uF 0603 SMD capacitor<br>
+C3 1uF 0603 SMD capacitor<br>
+C4 1uF 0603 SMD capacitor<br>
+R1 10K 0603 SMD resistor<br>
+R2 10K 0603 SMD resistor<br>
+R3 18R 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
+R4 18R 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
+Y1 27MHz 5032 SMD crystal<br>
