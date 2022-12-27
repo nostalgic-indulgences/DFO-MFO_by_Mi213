@@ -11,9 +11,9 @@ You can read more into the project here in the following link:-<br>
 1x	Texas Instrument clock generation IC - CDCE913<br>
 1x	1.8V LDO Regulator - TPS78218<br>
 1x	27MHz 5032 SMD crystal	(2-pin)<br>
-3x	1uF 0603 SMD capacitor
-1x	18Ω 0603 SMD resistor
-2x	10kΩ 0603 SMD resistor
+3x	1uF 0603 SMD capacitor<br>
+1x	18Ω 0603 SMD resistor<br>
+2x	10kΩ 0603 SMD resistor<br>
 
 ## MFO SMD 5V Component List<br>
 1x	Texas Instrument Clock Generation IC - CDCE913<br>
