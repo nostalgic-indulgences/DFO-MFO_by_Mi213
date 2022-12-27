@@ -7,6 +7,25 @@ I have included the pre-made TI Hex files that are posted on the circuitboard fo
 You can read more into the project here in the following link:-<br>
 `https://circuit-board.de/forum/index.php/Thread/18016-DFO-Dual-Frequency-Oscillator/`
 
+## DFO SMD 3.3V Component List<br>
+1x	Texas Instrument clock generation IC - CDCE913<br>
+1x	1.8V LDO Regulator - TPS78218<br>
+1x	27MHz 5032 SMD crystal	(2-pin)<br>
+3x	1uF 0603 SMD capacitor
+1x	18Ω 0603 SMD resistor
+2x	10kΩ 0603 SMD resistor
+
+## MFO SMD 5V Component List<br>
+1x	Texas Instrument Clock Generation IC - CDCE913<br>
+1x	buffer/level shifter - SN74LV1T126DBVR<br>
+1x	3.3V LDO Regulator - TPS78233<br>
+1x	1.8V LDO Regulator - TPS78218<br>
+1x	27MHz 5032 SMD crystal	(2-pin)<br>
+5x	1uF 0603 SMD capacitor<br>
+1x	18Ω 0603 SMD resistor<br>
+1x	10kΩ 0603 SMD resistor<br>
+1x	22kΩ 0603 SMD resistor<br>
+
 ## MFO Component List<br>
 U1 1.8V LDO Regulator - TPS78218<br>
 U2 Texas Instruments - CDCE925<br>
@@ -14,8 +33,8 @@ C1 1uF 0603 SMD capacitor<br>
 C2 1uF 0603 SMD capacitor<br>
 C3 1uF 0603 SMD capacitor<br>
 C4 1uF 0603 SMD capacitor<br>
-R1 10K 0603 SMD resistor<br>
-R2 10K 0603 SMD resistor<br>
-R3 18R 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
-R4 18R 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
-Y1 27MHz 5032 SMD crystal<br>
+R1 10kΩ 0603 SMD resistor<br>
+R2 10kΩ 0603 SMD resistor<br>
+R3 18Ω 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
+R4 18Ω 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
+Y1 27MHz 5032 SMD crystal (2-pin)<br>
