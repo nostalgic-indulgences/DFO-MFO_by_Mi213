@@ -9,7 +9,7 @@ You can read more into the project here in the following link:-<br>
 
 ## DFO SMD 3.3V Component List<br>
 1x	Texas Instrument clock generation IC - CDCE913<br>
-1x	1.8V LDO Regulator - TPS78218<br>
+1x	1.8V SOT-23-5 LDO Voltage Regulator - TPS78218<br>
 1x	27MHz 5032 SMD crystal	(2-pin)<br>
 3x	1uF 0603 SMD capacitor<br>
 1x	18Ω 0603 SMD resistor<br>
@@ -18,8 +18,8 @@ You can read more into the project here in the following link:-<br>
 ## MFO SMD 5V Component List<br>
 1x	Texas Instrument clock generation IC - CDCE913<br>
 1x	buffer/level shifter - SN74LV1T126DBVR<br>
-1x	3.3V LDO Regulator - TPS78233<br>
-1x	1.8V LDO Regulator - TPS78218<br>
+1x	3.3V SOT-23-5 LDO Voltage Regulator - TPS78233<br>
+1x	1.8V SOT-23-5 LDO Voltage Regulator - TPS78218<br>
 1x	27MHz 5032 SMD crystal	(2-pin)<br>
 5x	1uF 0603 SMD capacitor<br>
 1x	18Ω 0603 SMD resistor<br>
@@ -27,7 +27,7 @@ You can read more into the project here in the following link:-<br>
 1x	22kΩ 0603 SMD resistor<br>
 
 ## MFO Component List<br>
-U1 1.8V LDO Regulator - TPS78218<br>
+U1 1.8V SOT-25-5 LDO Voltage Regulator - TPS78218<br>
 U2 Texas Instruments clock generation IC - CDCE925<br>
 C1 1uF 0603 SMD capacitor<br>
 C2 1uF 0603 SMD capacitor<br>
