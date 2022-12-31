@@ -38,3 +38,5 @@ R2 10kΩ 0603 SMD resistor<br>
 R3 18Ω 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
 R4 18Ω 0603 SMD resistor (or whatever needed to accomodate signal to the circuit)<br>
 Y1 27MHz 5032 SMD crystal (2-pin)<br>
+
+*** CLK1 - FSC, CLK2 - GPU Clock
